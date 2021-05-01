@@ -1,0 +1,8 @@
+{
+    "TM1637DigitalTube.TM1637Init|block": "初始化第[NUM]块TM1637 CLK引脚[CLKPIN] DIO引脚[DIOPIN]",
+    "TM1637DigitalTube.TM1637DisplayPOS|block": "第[NUM]块TM1637显示[STR]",
+    "TM1637DigitalTube.TM1637Clear|block": "第[NUM]块TM1637清屏",
+    "TM1637DigitalTube.TM1637DisplayTime|block": "第[NUM]块TM1637显示[TIME]:[MIN][COLON]",
+    "TM1637DigitalTube.COLON.OPEN|menu": "开",
+    "TM1637DigitalTube.COLON.CLOSE|menu": "关"
+}

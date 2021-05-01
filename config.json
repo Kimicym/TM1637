@@ -1,0 +1,46 @@
+{
+  "name": {
+    "zh-cn": "多块TM1637数码管",
+    "en": "Multiple TM1637 DigitalTubes"
+  },
+  "description": {
+    "zh-cn": "可以同时控制多块TM1637数码管",
+    "en": "Can control multiple TM1637 digital tube at the same time."
+  },
+  "author": "chenyiming",
+  "email": "3611269470@qq.com",
+  "license": "MIT",
+  "isBoard": false,
+  "id": "M_TM1637DigitalTube",
+  "platform": [
+    "win"
+  ],
+  "version": "0.0.0",
+  "asset": {
+    "arduinoC": {
+      "dir": "arduinoC/",
+      "version": "0.0.0",
+      "board": [
+        "arduino",
+        "arduinonano",
+        "leonardo",
+        "mega2560"
+      ],
+      "main": "main.ts",
+      "files": [
+        "_images/featured.png",
+        "_images/icon.svg",
+        "_locales/zh-cn.json",
+        "_menus/arduino.json",
+        "_menus/arduinonano.json",
+        "_menus/esp32.json",
+        "_menus/leonardo.json",
+        "_menus/mega2560.json",
+        "_menus/microbit.json",
+        "libraries/libraries.zip"
+      ]
+    }
+  },
+  "path": "",
+  "isTest": false
+}
