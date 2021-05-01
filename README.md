@@ -16,7 +16,7 @@
 * [更新记录](#更新记录)
 
 ## 相关链接
-* 本项目加载链接: ```git@gitee.com:zchen7/tft18.git```
+* 本项目加载链接: ```https://github.com/Kimicym/TM1637.git```
 
 * 用户库教程链接: ```https://mindplus.dfrobot.com.cn/extensions-user```
 
